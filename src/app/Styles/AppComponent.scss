@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+[dir="ltr"] {
+    body {
+        text-align: left;
+    }
+}
+
+[dir="rtl"] {
+    body {
+        text-align: right;
+    }
+}

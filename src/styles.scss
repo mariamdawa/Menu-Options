@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.min.css';
+
+@import 'app/Styles/Variables.scss';
+@import 'app/Styles/Shared.scss';
+
+@import 'app/Styles/AppComponent.scss';
+@import 'app/Styles/content.scss';
+@import 'app/Styles/menu.scss';
+@import 'app/Styles/header.scss';
+
